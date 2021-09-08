@@ -1,0 +1,13 @@
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.csprojAssemblyReference.cache
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.AssemblyInfoInputs.cache
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.AssemblyInfo.cs
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.csproj.CoreCompileInputs.cache
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.exe
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.deps.json
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.runtimeconfig.json
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.runtimeconfig.dev.json
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.dll
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\bin\Debug\netcoreapp3.1\Curso CSharp NET Core.pdb
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.dll
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.pdb
+C:\Users\jmlopez\Documents\Visual Studio 2019\Projects\Curso CSharp NET Core\Curso CSharp NET Core\obj\Debug\netcoreapp3.1\Curso CSharp NET Core.genruntimeconfig.cache
